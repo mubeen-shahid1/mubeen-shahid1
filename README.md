@@ -11,4 +11,3 @@ CSS          30 mins         ██████████░░░░░░░
 JSON         10 mins         ████████████░░░░░░░░   30.15 % 
 Other        2 mins          ████░░░░░░░░░░░░░░░░   10.50 % 
 
-https://www.google.com/search?sca_esv=588456036&q=computer+programmer&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj4pq65vvuCAxWCzwIHHXhaBOEQ0pQJegQIDRAB&biw=1440&bih=783&dpr=1#imgrc=6j0jlaa3G651sM
